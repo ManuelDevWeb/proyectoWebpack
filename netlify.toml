@@ -1,4 +1,4 @@
 [build]
-    base="js-portfolio
+    base="js-portfolio"
     publish="dist"
     CI="npm run build"
