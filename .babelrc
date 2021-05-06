@@ -1,0 +1,9 @@
+//Crearemos un objeto donde agregaremos la configuracion que agregamos
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
